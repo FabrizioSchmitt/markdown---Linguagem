@@ -1,6 +1,10 @@
-markdown linguagem-
-Negrito - ** palavra ** ou  __ palavra__
-Itálico - * palavra * ou _palavra_
+# Markdown linguagem-
+
+Nova linha: usar 2 espaços e 1 enter  
+
+Negrito - **palavra** ou  __palavra__
+Itálico - *palavra* ou _palavra_  
+
 # título-1
 ## título-2
 ### título-3
@@ -36,3 +40,19 @@ risco-2
   valor1|valor2|valor3
   valor4|valor5|valor6
   valor7|valor8|valor9
+
+***
+
+>Conteúdo blockquote
+>
+>>Blockquote aninhado
+>
+>>>> 3 aninhamento
+    
+***
+## Códigos
+
+`código`  
+
+```Bloco de código```
+  
