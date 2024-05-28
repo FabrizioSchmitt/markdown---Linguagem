@@ -8,29 +8,26 @@ risco
 ____
 risco-2
 ***
-Lista numerada
+## Listas  
+
+**Lista numerada**
 1. item 1
 1. item 2
 39282. item 3
   123. subitem do item 3
 1. item4
 
-Lista marcada-
+**Lista marcada**
 
 * item 1
 * item 2
 * item 3
-
-  
-###Mostrar link
-***
-![imagem](https://avatars.githubusercontent.com/u/59704711?s=200&v=4)
-
-  Lista de tarefas
-  -[x] Item 1 (marcado por causa do x)
-  -[] item 2
-  -[x] item 3(marcado por causa do x)
-  -[]- item 4
+* 
+**Lista de tarefas**
+- [x] Item 1 (marcado por causa do x)
+- [ ] item 2
+- [x] - item 3(marcado por causa do x)
+- [ ] Item 4
 
   ##Tabela
   ***
