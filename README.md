@@ -20,11 +20,22 @@ Lista marcada-
 * item 1
 * item 2
 * item 3
-* 
-![imagem]()
+
+  
+###Mostrar link
+***
+![imagem](https://avatars.githubusercontent.com/u/59704711?s=200&v=4)
 
   Lista de tarefas
   -[x] Item 1 (marcado por causa do x)
   -[] item 2
   -[x] item 3(marcado por causa do x)
   -[]- item 4
+
+  ##Tabela
+  ***
+  Header1 | Header2 | Header3
+  --|--|--
+  valor1|valor2|valor3
+  valor4|valor5|valor6
+  valor7|valor8|valor9
