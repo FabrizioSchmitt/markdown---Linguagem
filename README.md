@@ -50,9 +50,24 @@ risco-2
 >>>> 3 aninhamento
     
 ***
-## Códigos
+## Códigos  
 
-`código`  
+**Código**  
 
-```Bloco de código```
+`printf("Minha idade é: %d\n", idade); https://embarcados.com.br/linguagem-c-guia-completo/`  
+**Bloco de código**  
+
+```#include <stdio.h>
+ 
+int main(void) {
+  // Declara uma variável inteira chamada "idade"
+  int idade;
+ 
+  // Atribui o valor 25 à variável "idade"
+  idade = 25;
+ 
+  printf("Minha idade é: %d\n", idade);
+ 
+  return 0;
+} https://embarcados.com.br/linguagem-c-guia-completo/```
   
