@@ -20,6 +20,8 @@ Lista marcada-
 * item 1
 * item 2
 * item 3
+* 
+![imagem]()
 
   Lista de tarefas
   -[x] Item 1 (marcado por causa do x)
