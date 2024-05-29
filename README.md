@@ -1,4 +1,5 @@
-# Markdown linguagem-
+# Markdown linguagem-  
+É possível misturar HTML com markdown em documentos construídos á depender do leitor de código
 
 Nova linha: usar 2 espaços e 1 enter  
 
