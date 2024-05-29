@@ -21,7 +21,7 @@ risco-2
 1. item 1
 1. item 2
 39282. item 3
-  123. subitem do item 3
+   123. subitem do item 3
 1. item4
 
 **Lista marcada**
